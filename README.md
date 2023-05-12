@@ -1,0 +1,1 @@
+# IC-Curva_Impedancia
