@@ -8,4 +8,4 @@ Com base numa função já preestabelecida para a impedância, tenho suas partes
 Dai, consigo achar os melhores parâmetros que ajustam essa função para os dados trabalhados.
 
 Atualização:
- Consegui ajustar os dados gerados com um ruido, a partir de certos parâmetros fixos, utilizei o módulo do número complexo e a função curve_fit no scypy
+ Consegui ajustar os dados gerados com um ruido, a partir de certos parâmetros fixos, utilizei o módulo do número complexo e a função curve_fit no scypy.
